@@ -1,7 +1,0 @@
-{
-  "passed": 251,
-  "total": 251,
-  "failures": [],
-  "errors": [],
-  "method": "Chromium rendered HTML with embedded CSS/JS and original photo; no remote/network deployment tested"
-}
